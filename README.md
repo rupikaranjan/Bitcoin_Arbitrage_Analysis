@@ -1,5 +1,5 @@
 # Bitcoin_Arbitrage_Analysis
-This Application collects , prepare and analyze Bitcoin coin data across two exchanges (Bitstamp and Coinbase) and tells if there are any arnitrage opportunities fot it.
+This Application collects , prepare and analyze Bitcoin coin data across two exchanges (Bitstamp and Coinbase) and tells if there are any arbitrage opportunities fot it.
 
 ---
 
@@ -88,7 +88,7 @@ Given below is example of one selected dates.
 ---
 
 ## Summary
-![summary][Resources/Images/summary.png]
+![summary](Resources/Images/summary.png)
 
 ---
 
